@@ -26,6 +26,9 @@ ol {
 	text-align:left;
 }
 #sidebar.div {
+	height: 300px;
+	width: 100px;
+	background-color: white;
 	float: right;
 	margin: 10px;
 }
