@@ -25,7 +25,12 @@ ol {
 	text: black;
 	text-align:left;
 }
-sidebar {
+#sidebar.div {
 	float: right;
 	margin: 10px;
+}
+
+
+a:hover {
+	
 }
