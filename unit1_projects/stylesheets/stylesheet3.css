@@ -1,3 +1,9 @@
 body {
+	background-color: light-blue;
 	padding: 75%;
+	text-align:center;
+}
+
+ol {
+	text-align: center;
 }
