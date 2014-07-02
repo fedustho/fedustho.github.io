@@ -25,6 +25,7 @@ ol {
 	text: black;
 	text-align:left;
 }
-
-float: right;
-margin: 10px;
+sidebar {
+	float: right;
+	margin: 10px;
+}
