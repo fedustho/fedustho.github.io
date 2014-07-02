@@ -1,6 +1,7 @@
 body {
 	font-size: large;
 	background-color: #8AB8E6 ;
+<<<<<<< HEAD
 	padding: 50px;
 	text-align:center;
 }
@@ -8,4 +9,12 @@ body {
 ol {
 	text-align: left;
 	font-size: large;
+=======
+	padding: 100px;
+	text-align:center;
+}
+
+div {
+	text-align: left;
+>>>>>>> FETCH_HEAD
 }
