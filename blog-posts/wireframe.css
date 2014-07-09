@@ -5,4 +5,5 @@ div { border-top; 20px;
       border-left:40px;
       border-bottom: 100px;
       border-right:40px;
-      background-color: white}
+      background-color: white
+      position: absolute;}
