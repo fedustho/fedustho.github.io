@@ -1,0 +1,36 @@
+#header {margin: 50px;
+		padding-bottom: 50px; 
+		padding-top: 5px;
+		padding-left: 10px;
+		padding-right: 10px;
+		
+		border: 20px;
+		border-color: blue;
+		border-style: solid;
+		height: 25px;
+		position: absolute;
+		text-align: center;
+
+
+}
+
+#body  {margin: 60px;
+		font-size: 20px;
+		text-align: left;}
+
+#margins  {text-align: left;
+	font-size: 20px;
+	margin:60px;}	
+
+#borders {margin: 60px;
+	font-size: 20px;
+	text-align: left;}	
+
+#padding	{text-align: left;
+		font-size: 20px;
+			margin: 60px;}	
+
+#end  { text-align:left;
+		font-size: 20px;
+		margin-top: 50px;
+		margin-left: 0px;}			
