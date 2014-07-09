@@ -1,7 +1,8 @@
 
 body {background-color: #E8E8E8;}
 
-div { border-top; 20px;
+div { width: 300px;
+      border-top; 20px;
       border-left:40px;
       border-bottom: 100px;
       border-right:40px;
