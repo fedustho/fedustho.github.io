@@ -1,0 +1,60 @@
+#header { color: #FF00000;
+	
+	
+		border-style: groove;
+		border-width: 10px;
+		height: 200px;
+		background-image: url(http://i1265.photobucket.com/albums/jj512/azande7/24c51cac-5ae3-441d-8826-4ac4fa4487fb_zpsa763ded6.jpg?t=1404513713);
+		background-size: cover;
+	}
+
+#front {background-image:  
+		background-size:cover;
+
+		height: 500px;
+		width:500px;
+	 }	
+#firstbutton {height: 30px;
+		width: 100px;
+		left:675px;
+		top:289px;
+		position: absolute;}
+
+#secondbutton {height: 30px;
+				width: 100px;
+				left: 675px;
+				top: 322px;
+				position: absolute;	}		
+
+body {background: url(https://scontent-b-lax.xx.fbcdn.net/hphotos-xfa1/t1.0-9/1828_1023502744959_2920_n.jpg);		
+		background-size:cover;
+	}
+
+#technical {left: 650px;
+			top: 10px;
+			height: 40px;
+			width: 200px;
+			position: relative;}	
+
+#cultural { left: 410px;
+			top: 239px;
+			height: 40px;
+			width: 200px;
+			position: absolute;
+			}
+
+#thirdbutton  {left: 433px;
+			top:289px;
+		
+			
+			position: absolute;	}
+
+button {height: 42px;
+		width:100px;
+			}	
+
+#forthbutton { left: 675px;
+				top: 354px;
+				position: absolute ;}							
+
+

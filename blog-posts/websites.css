@@ -1,0 +1,52 @@
+
+
+body { font-size: 16px;}
+
+
+#header {height: 120;
+			border-style: outset;
+			border-color: 580000;
+			background-color: E8E8E8;
+			text-align: center;}
+
+
+#ghost {height: 100px;
+		width: 500px;
+		position: relative;
+		 }
+
+#ghostpic { 
+top:800px;
+	height:300px;
+		width: 250px;
+		position: absolute;
+		}	
+
+#google  {left: 500px;
+
+			height: 100px;
+			width: 500px;
+			position:relative;}	
+
+#googlepic {left:500px;
+			height:100px;
+			width: 800px;
+			position: relative;}	
+
+#azpic {	top:1000px;
+			height:500px;
+			width: 500px;
+			position:absolute;}	
+
+#arizona {top: 870px;
+	    height: 100px;
+		width: 400px;
+		position: absolute;}
+
+					
+
+
+
+
+
+img {width: 30%;}
