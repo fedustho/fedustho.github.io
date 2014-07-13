@@ -1,0 +1,21 @@
+#header {color: black;
+		background-color: #dfc12a;
+		font-size: 90px;
+		height: 200px;
+		text-align: right;
+		width:900px;
+		left:40px;
+
+		
+		position:absolute;
+		top:5px;
+			}
+
+#body
+{ font-size: 20px;
+	top:190px;
+	width:500px;
+	left:300;
+	border: 10px;
+		text-align: left;
+		position:absolute;}		
