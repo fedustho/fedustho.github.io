@@ -1,0 +1,29 @@
+#header {  
+      text-align: center;
+			border-style: dashed;
+			width: 1000px;
+			height: 150px;
+			border-color: C0C0C0;
+			background-color: B8B8B8 
+			}
+
+
+#first {left:130px;
+		position: absolute;
+		text-align: left;
+		right:150px;
+		font-size:20px;
+		}	
+
+#second {left: 130px;
+		position: absolute;
+		top:395px;
+		text-align: left;
+		right:150px;
+		font-size:20px;
+		}		
+
+				
+
+
+
